@@ -1,0 +1,30 @@
+{
+  "name": "normalizr-example",
+  "version": "1.0.0",
+  "description": "normalizr example.",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "tsc": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsandbox/normalizr-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsandbox/normalizr-example/issues"
+  },
+  "homepage": "https://github.com/hsandbox/normalizr-example#readme",
+  "dependencies": {
+    "normalizr": "^3.3.0",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.0"
+  }
+}

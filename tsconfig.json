@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "removeComments": true,
+    "sourceMap": true,
+    "target": "ES2015",
+    "typeRoots": ["node_modules/@types", "./types"]
+  },
+  "exclude": ["node_modules"],
+  "lib": ["DOM", "ES2018"]
+}
